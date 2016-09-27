@@ -12,6 +12,6 @@ public class MainController {
 	@ResponseBody
 	@RequestMapping("/")
 	public String helloLinkr(){
-		return "Hello Linkr!";
+		return "Hello Linkr GIT!";
 	}
 }
